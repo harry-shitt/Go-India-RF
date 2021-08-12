@@ -1,6 +1,7 @@
 # RF
 Recursive algorithm for finding shortest route for set of nodes
 
+Idea : Gpay's game go India!!
 Suppose you want to go on holiday vacation visiting several desination , then you want to travel the shortest route covering all the desired location .
 In this project i have used a recursive approach for finding the set of points in which they should be visited starting from a particular location 
 
